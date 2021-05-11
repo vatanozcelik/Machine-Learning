@@ -1,0 +1,381 @@
+Home Team,Away Team,Result
+Fulham,Arsenal,Arsenal
+Burnley,Man Utd,Man Utd
+Man City,Aston Villa,Aston Villa
+Crystal Palace,Southampton,Southampton
+Liverpool,Leeds,Leeds
+West Ham,Newcastle,Newcastle
+West Brom,Leicester,Leicester
+Spurs,Everton,Everton
+Sheffield Utd,Wolves,Wolves
+Brighton,Chelsea,Chelsea
+Everton,West Brom,West Brom
+Leeds,Fulham,Fulham
+Man Utd,Crystal Palace,Crystal Palace
+Arsenal,West Ham,West Ham
+Southampton,Spurs,Spurs
+Newcastle,Brighton,Brighton
+Chelsea,Liverpool,Liverpool
+Leicester,Burnley,Burnley
+Aston Villa,Sheffield Utd,Sheffield Utd
+Wolves,Man City,Man City
+Brighton,Man Utd,Man Utd
+Crystal Palace,Everton,Everton
+West Brom,Chelsea,Chelsea
+Burnley,Southampton,Southampton
+Sheffield Utd,Leeds,Leeds
+Spurs,Newcastle,Newcastle
+Man City,Leicester,Leicester
+West Ham,Wolves,Wolves
+Fulham,Aston Villa,Aston Villa
+Liverpool,Arsenal,Arsenal
+Arsenal,Sheffield Utd,Sheffield Utd
+Aston Villa,Liverpool,Liverpool
+Chelsea,Crystal Palace,Crystal Palace
+Everton,Brighton,Brighton
+Leeds,Man City,Man City
+Leicester,West Ham,West Ham
+Man Utd,Spurs,Spurs
+Newcastle,Burnley,Burnley
+Southampton,West Brom,West Brom
+Wolves,Fulham,Fulham
+Chelsea,Southampton,Southampton
+Crystal Palace,Brighton,Brighton
+Everton,Liverpool,Liverpool
+Leeds,Wolves,Wolves
+Leicester,Aston Villa,Aston Villa
+Man City,Arsenal,Arsenal
+Newcastle,Man Utd,Man Utd
+Sheffield Utd,Fulham,Fulham
+Spurs,West Ham,West Ham
+West Brom,Burnley,Burnley
+Arsenal,Leicester,Leicester
+Aston Villa,Leeds,Leeds
+Brighton,West Brom,West Brom
+Burnley,Spurs,Spurs
+Fulham,Crystal Palace,Crystal Palace
+Liverpool,Sheffield Utd,Sheffield Utd
+Man Utd,Chelsea,Chelsea
+Southampton,Everton,Everton
+West Ham,Man City,Man City
+Wolves,Newcastle,Newcastle
+Aston Villa,Southampton,Southampton
+Burnley,Chelsea,Chelsea
+Fulham,West Brom,West Brom
+Leeds,Leicester,Leicester
+Liverpool,West Ham,West Ham
+Man Utd,Arsenal,Arsenal
+Newcastle,Everton,Everton
+Sheffield Utd,Man City,Man City
+Spurs,Brighton,Brighton
+Wolves,Crystal Palace,Crystal Palace
+Arsenal,Aston Villa,Aston Villa
+Brighton,Burnley,Burnley
+Chelsea,Sheffield Utd,Sheffield Utd
+Crystal Palace,Leeds,Leeds
+Everton,Man Utd,Man Utd
+Leicester,Wolves,Wolves
+Man City,Liverpool,Liverpool
+Southampton,Newcastle,Newcastle
+West Brom,Spurs,Spurs
+West Ham,Fulham,Fulham
+Aston Villa,Brighton,Brighton
+Burnley,Crystal Palace,Crystal Palace
+Fulham,Everton,Everton
+Leeds,Arsenal,Arsenal
+Liverpool,Leicester,Leicester
+Man Utd,West Brom,West Brom
+Newcastle,Chelsea,Chelsea
+Sheffield Utd,West Ham,West Ham
+Spurs,Man City,Man City
+Wolves,Southampton,Southampton
+Arsenal,Wolves,Wolves
+Brighton,Liverpool,Liverpool
+Chelsea,Spurs,Spurs
+Crystal Palace,Newcastle,Newcastle
+Everton,Leeds,Leeds
+Leicester,Fulham,Fulham
+Man City,Burnley,Burnley
+Southampton,Man Utd,Man Utd
+West Brom,Sheffield Utd,Sheffield Utd
+West Ham,Aston Villa,Aston Villa
+Aston Villa,Newcastle,Newcastle
+Brighton,Southampton,Southampton
+Burnley,Everton,Everton
+Chelsea,Leeds,Leeds
+Liverpool,Wolves,Wolves
+Man City,Fulham,Fulham
+Sheffield Utd,Leicester,Leicester
+Spurs,Arsenal,Arsenal
+West Brom,Crystal Palace,Crystal Palace
+West Ham,Man Utd,Man Utd
+Crystal Palace,Spurs,Spurs
+Everton,Chelsea,Chelsea
+Fulham,Liverpool,Liverpool
+Leeds,West Ham,West Ham
+Man Utd,Man City,Man City
+Newcastle,West Brom,West Brom
+Southampton,Sheffield Utd,Sheffield Utd
+Wolves,Aston Villa,Aston Villa
+Arsenal,Burnley,Burnley
+Leicester,Brighton,Brighton
+Arsenal,Southampton,Southampton
+Aston Villa,Burnley,Burnley
+Fulham,Brighton,Brighton
+Leeds,Newcastle,Newcastle
+Leicester,Everton,Everton
+Sheffield Utd,Man Utd,Man Utd
+West Ham,Crystal Palace,Crystal Palace
+Wolves,Chelsea,Chelsea
+Liverpool,Spurs,Spurs
+Man City,West Brom,West Brom
+Brighton,Sheffield Utd,Sheffield Utd
+Burnley,Wolves,Wolves
+Chelsea,West Ham,West Ham
+Crystal Palace,Liverpool,Liverpool
+Everton,Arsenal,Arsenal
+Man Utd,Leeds,Leeds
+Newcastle,Fulham,Fulham
+Southampton,Man City,Man City
+Spurs,Leicester,Leicester
+West Brom,Aston Villa,Aston Villa
+Arsenal,Chelsea,Chelsea
+Aston Villa,Crystal Palace,Crystal Palace
+Fulham,Southampton,Southampton
+Leeds,Burnley,Burnley
+Leicester,Man Utd,Man Utd
+Liverpool,West Brom,West Brom
+Man City,Newcastle,Newcastle
+Sheffield Utd,Everton,Everton
+West Ham,Brighton,Brighton
+Wolves,Spurs,Spurs
+Brighton,Arsenal,Arsenal
+Burnley,Sheffield Utd,Sheffield Utd
+Chelsea,Aston Villa,Aston Villa
+Crystal Palace,Leicester,Leicester
+Everton,Man City,Man City
+Man Utd,Wolves,Wolves
+Newcastle,Liverpool,Liverpool
+Southampton,West Ham,West Ham
+Spurs,Fulham,Fulham
+West Brom,Leeds,Leeds
+Brighton,Wolves,Wolves
+Burnley,Fulham,Fulham
+Chelsea,Man City,Man City
+Crystal Palace,Sheffield Utd,Sheffield Utd
+Everton,West Ham,West Ham
+Man Utd,Aston Villa,Aston Villa
+Newcastle,Leicester,Leicester
+Southampton,Liverpool,Liverpool
+Spurs,Leeds,Leeds
+West Brom,Arsenal,Arsenal
+Arsenal,Crystal Palace,Crystal Palace
+Aston Villa,Spurs,Spurs
+Fulham,Man Utd,Man Utd
+Leeds,Southampton,Southampton
+Leicester,Chelsea,Chelsea
+Sheffield Utd,Newcastle,Newcastle
+West Ham,West Brom,West Brom
+Wolves,Everton,Everton
+Liverpool,Burnley,Burnley
+Man City,Brighton,Brighton
+Arsenal,Newcastle,Newcastle
+Aston Villa,Everton,Everton
+Fulham,Chelsea,Chelsea
+Leeds,Brighton,Brighton
+Leicester,Southampton,Southampton
+Liverpool,Man Utd,Man Utd
+Man City,Crystal Palace,Crystal Palace
+Sheffield Utd,Spurs,Spurs
+West Ham,Burnley,Burnley
+Wolves,West Brom,West Brom
+Brighton,Fulham,Fulham
+Burnley,Aston Villa,Aston Villa
+Everton,Leicester,Leicester
+Man Utd,Sheffield Utd,Sheffield Utd
+West Brom,Man City,Man City
+Chelsea,Wolves,Wolves
+Newcastle,Leeds,Leeds
+Southampton,Arsenal,Arsenal
+Spurs,Liverpool,Liverpool
+Crystal Palace,West Ham,West Ham
+Arsenal,Man Utd,Man Utd
+Brighton,Spurs,Spurs
+Chelsea,Burnley,Burnley
+Crystal Palace,Wolves,Wolves
+Everton,Newcastle,Newcastle
+Leicester,Leeds,Leeds
+Man City,Sheffield Utd,Sheffield Utd
+Southampton,Aston Villa,Aston Villa
+West Brom,Fulham,Fulham
+West Ham,Liverpool,Liverpool
+Aston Villa,West Ham,West Ham
+Burnley,Man City,Man City
+Fulham,Leicester,Leicester
+Leeds,Everton,Everton
+Sheffield Utd,West Brom,West Brom
+Wolves,Arsenal,Arsenal
+Man Utd,Southampton,Southampton
+Newcastle,Crystal Palace,Crystal Palace
+Spurs,Chelsea,Chelsea
+Liverpool,Brighton,Brighton
+Aston Villa,Arsenal,Arsenal
+Burnley,Brighton,Brighton
+Fulham,West Ham,West Ham
+Leeds,Crystal Palace,Crystal Palace
+Liverpool,Man City,Man City
+Man Utd,Everton,Everton
+Newcastle,Southampton,Southampton
+Sheffield Utd,Chelsea,Chelsea
+Spurs,West Brom,West Brom
+Wolves,Leicester,Leicester
+Arsenal,Leeds,Leeds
+Brighton,Aston Villa,Aston Villa
+Chelsea,Newcastle,Newcastle
+Crystal Palace,Burnley,Burnley
+Everton,Fulham,Fulham
+Leicester,Liverpool,Liverpool
+Man City,Spurs,Spurs
+Southampton,Wolves,Wolves
+West Brom,Man Utd,Man Utd
+West Ham,Sheffield Utd,Sheffield Utd
+Arsenal,Man City,Man City
+Aston Villa,Leicester,Leicester
+Brighton,Crystal Palace,Crystal Palace
+Burnley,West Brom,West Brom
+Fulham,Sheffield Utd,Sheffield Utd
+Liverpool,Everton,Everton
+Man Utd,Newcastle,Newcastle
+Southampton,Chelsea,Chelsea
+West Ham,Spurs,Spurs
+Wolves,Leeds,Leeds
+Chelsea,Man Utd,Man Utd
+Crystal Palace,Fulham,Fulham
+Everton,Southampton,Southampton
+Leeds,Aston Villa,Aston Villa
+Leicester,Arsenal,Arsenal
+Man City,West Ham,West Ham
+Newcastle,Wolves,Wolves
+Sheffield Utd,Liverpool,Liverpool
+Spurs,Burnley,Burnley
+West Brom,Brighton,Brighton
+Aston Villa,Wolves,Wolves
+Brighton,Leicester,Leicester
+Burnley,Arsenal,Arsenal
+Chelsea,Everton,Everton
+Liverpool,Fulham,Fulham
+Man City,Man Utd,Man Utd
+Sheffield Utd,Southampton,Southampton
+Spurs,Crystal Palace,Crystal Palace
+West Brom,Newcastle,Newcastle
+West Ham,Leeds,Leeds
+Arsenal,Spurs,Spurs
+Crystal Palace,West Brom,West Brom
+Everton,Burnley,Burnley
+Fulham,Man City,Man City
+Leeds,Chelsea,Chelsea
+Leicester,Sheffield Utd,Sheffield Utd
+Man Utd,West Ham,West Ham
+Newcastle,Aston Villa,Aston Villa
+Southampton,Brighton,Brighton
+Wolves,Liverpool,Liverpool
+Brighton,Newcastle,Newcastle
+Burnley,Leicester,Leicester
+Crystal Palace,Man Utd,Man Utd
+Fulham,Leeds,Leeds
+Liverpool,Chelsea,Chelsea
+Man City,Wolves,Wolves
+Sheffield Utd,Aston Villa,Aston Villa
+Spurs,Southampton,Southampton
+West Brom,Everton,Everton
+West Ham,Arsenal,Arsenal
+Arsenal,Liverpool,Liverpool
+Aston Villa,Fulham,Fulham
+Chelsea,West Brom,West Brom
+Everton,Crystal Palace,Crystal Palace
+Leeds,Sheffield Utd,Sheffield Utd
+Leicester,Man City,Man City
+Man Utd,Brighton,Brighton
+Newcastle,Spurs,Spurs
+Southampton,Burnley,Burnley
+Wolves,West Ham,West Ham
+Brighton,Everton,Everton
+Burnley,Newcastle,Newcastle
+Crystal Palace,Chelsea,Chelsea
+Fulham,Wolves,Wolves
+Liverpool,Aston Villa,Aston Villa
+Man City,Leeds,Leeds
+Sheffield Utd,Arsenal,Arsenal
+Spurs,Man Utd,Man Utd
+West Brom,Southampton,Southampton
+West Ham,Leicester,Leicester
+Arsenal,Fulham,Fulham
+Aston Villa,Man City,Man City
+Chelsea,Brighton,Brighton
+Everton,Spurs,Spurs
+Leeds,Liverpool,Liverpool
+Leicester,West Brom,West Brom
+Man Utd,Burnley,Burnley
+Newcastle,West Ham,West Ham
+Southampton,Crystal Palace,Crystal Palace
+Wolves,Sheffield Utd,Sheffield Utd
+Arsenal,Everton,Everton
+Aston Villa,West Brom,West Brom
+Fulham,Spurs,Spurs
+Leeds,Man Utd,Man Utd
+Leicester,Crystal Palace,Crystal Palace
+Liverpool,Newcastle,Newcastle
+Man City,Southampton,Southampton
+Sheffield Utd,Brighton,Brighton
+West Ham,Chelsea,Chelsea
+Wolves,Burnley,Burnley
+Brighton,Leeds,Leeds
+Burnley,West Ham,West Ham
+Chelsea,Fulham,Fulham
+Crystal Palace,Man City,Man City
+Everton,Aston Villa,Aston Villa
+Man Utd,Liverpool,Liverpool
+Newcastle,Arsenal,Arsenal
+Southampton,Leicester,Leicester
+Spurs,Sheffield Utd,Sheffield Utd
+West Brom,Wolves,Wolves
+Arsenal,West Brom,West Brom
+Aston Villa,Man Utd,Man Utd
+Fulham,Burnley,Burnley
+Leeds,Spurs,Spurs
+Leicester,Newcastle,Newcastle
+Liverpool,Southampton,Southampton
+Man City,Chelsea,Chelsea
+Sheffield Utd,Crystal Palace,Crystal Palace
+West Ham,Everton,Everton
+Wolves,Brighton,Brighton
+Brighton,West Ham,West Ham
+Burnley,Leeds,Leeds
+Everton,Sheffield Utd,Sheffield Utd
+Man Utd,Leicester,Leicester
+West Brom,Liverpool,Liverpool
+Chelsea,Arsenal,Arsenal
+Newcastle,Man City,Man City
+Southampton,Fulham,Fulham
+Spurs,Wolves,Wolves
+Crystal Palace,Aston Villa,Aston Villa
+Brighton,Man City,Man City
+Burnley,Liverpool,Liverpool
+Chelsea,Leicester,Leicester
+Crystal Palace,Arsenal,Arsenal
+Everton,Wolves,Wolves
+Man Utd,Fulham,Fulham
+Newcastle,Sheffield Utd,Sheffield Utd
+Southampton,Leeds,Leeds
+Spurs,Aston Villa,Aston Villa
+West Brom,West Ham,West Ham
+Arsenal,Brighton,Brighton
+Aston Villa,Chelsea,Chelsea
+Fulham,Newcastle,Newcastle
+Leeds,West Brom,West Brom
+Leicester,Spurs,Spurs
+Liverpool,Crystal Palace,Crystal Palace
+Man City,Everton,Everton
+Sheffield Utd,Burnley,Burnley
+West Ham,Southampton,Southampton
+Wolves,Man Utd,Man Utd

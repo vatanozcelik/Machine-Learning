@@ -1,3 +1,14 @@
-# Machine_Learning
-ML from udemy by sadi evren seker
-who want to get basic idea about machine learning with python, it'd better to access.
+# Mix of two BTK Akademi courses 'Machine Learning with Python' and 'Tensorflow and Python for Data Science' 
+### By Sadi Evren Seker and Atil Samancioglu 
+##### who want to get basic idea about machine learning with python and tensorflow, it'd better to access.
+###### Libraries is used:
+Pandas
+Numpy
+Seaborn
+Matplotlib
+Sklearn
+Tensorflow
+Keras
+
+
+
